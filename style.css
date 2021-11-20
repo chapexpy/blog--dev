@@ -117,6 +117,7 @@ h3{
     height:5em;
     margin-bottom: 2.5em;
     margin-top: 1em;
+    border-radius: 5px;
 }
 .blog-post h5{
     margin: 0;
@@ -137,4 +138,8 @@ footer{
     justify-content:center;
     margin-left: 25%;
     margin-top: 10em;
+}
+.sign-off:hover{
+    text-decoration: underline;
+    color: #d13939;
 }
